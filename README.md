@@ -27,11 +27,9 @@ information or see https://opensource.org/licenses/MIT.
 Development Process
 -------------------
 
-The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/bitcoin/bitcoin/tags) are created
-regularly to indicate new official, stable release versions of Bitcoin Core.
+The master branch is built and tested but is not guaranteed to be completely stable. Tags are created to indicate new official, stable release versions of Bitcoin Core.
 
-The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
+CONTRIBUTING.md describes the contribution workflow.
 
 The developer [mailing list](https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev)
 should be used to discuss complicated or controversial changes before working
